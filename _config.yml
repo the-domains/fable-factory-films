@@ -1,7 +1,7 @@
 name: Fable Factory Films
 favicon: null
-layout_spectrum: 0.7570088126230985
-typography_spectrum: 0.825934634078294
+layout_spectrum: 1
+typography_spectrum: 0.48707
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.685314784059301
-  lightness: 0.2355229922104627
-  saturation: 0.6034914215561002
-  rhythmicContrast: 0.9012759290635586
+    - '#ff4949'
+    - '#e5dd4e'
+    - '#308250'
+    - '#ffffff'
+    - '#3e2e55'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
