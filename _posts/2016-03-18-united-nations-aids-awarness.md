@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T11:14:36.374Z'
-dateModified: '2016-03-15T17:48:55.050Z'
+datePublished: '2016-03-18T11:18:37.640Z'
+dateModified: '2016-03-18T11:18:32.578Z'
 author:
   - name: Fable Factory Films
     url: 'http://vimeo.com/user21342582'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: United Nations - Aids Awarness
+sourcePath: _posts/2016-03-18-united-nations-aids-awarness.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-18-united-nations-aids-awarness.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
