@@ -4,8 +4,15 @@
         <description><![CDATA[Fable Factory Films]]></description>
         <link>https://thegrid.ai/fable-factory-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 13:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 13:37:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fable-factory-films/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TATA Aria]]></title>
+            <description><![CDATA[<article><h1>TATA Aria</h1><p>Director - John Francis</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/540a218dc0129c997dce01fb322eb36917a31743.jpg"></article>]]></description>
+            <link>https://vimeo.com/155086972</link>
+            <guid isPermaLink="false">eda8edf6-3801-4dd0-a45c-14e68d915553</guid>
+            <pubDate>Fri, 18 Mar 2016 13:36:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gromor Double Ghoda]]></title>
             <description><![CDATA[<article><h1>Gromor Double Ghoda</h1><p>Director - Ragu Muthiah</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da0cb93a36a64d8f390ec06602ee4d720d82f15a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/127142295</link>
             <guid isPermaLink="false">19abc194-5e4b-43cb-b359-e004ffb9b83d</guid>
             <pubDate>Fri, 18 Mar 2016 13:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[britannia treat "scary"]]></title>
-            <description><![CDATA[<article><h1>britannia treat "scary"</h1><p>Director - Saurabh Ghosh</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a8569efc6a6b84d1a74ad61932a7901f9971f43.jpg"></article>]]></description>
-            <link>https://vimeo.com/104072398</link>
-            <guid isPermaLink="false">96673b56-63c8-431b-96ea-cf65c2471601</guid>
-            <pubDate>Fri, 18 Mar 2016 13:11:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
