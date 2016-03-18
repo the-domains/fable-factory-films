@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T08:13:46.578Z'
-dateModified: '2016-03-15T17:11:53.065Z'
+datePublished: '2016-03-18T10:13:34.452Z'
+dateModified: '2016-03-18T10:12:11.120Z'
 author:
   - name: Fable Factory Films
     url: 'http://vimeo.com/user21342582'
@@ -41,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: 'boroline "raima"'
+title: 'Boroline "raima"'
+sourcePath: _posts/2016-03-18-boroline-raima.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-18-boroline-raima.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
