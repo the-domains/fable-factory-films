@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: =
-datePublished: '2016-03-18T08:13:45.310Z'
-dateModified: '2016-03-15T17:14:13.918Z'
+datePublished: '2016-03-18T10:18:36.110Z'
+dateModified: '2016-03-18T10:18:32.163Z'
 author:
   - name: Fable Factory Films
     url: 'http://vimeo.com/user21342582'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: HUTCH NOW VODAFONE
+sourcePath: _posts/2016-03-18-hutch-now-vodafone.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-18-hutch-now-vodafone.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
