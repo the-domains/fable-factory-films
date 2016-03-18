@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T08:13:47.178Z'
-dateModified: '2016-03-15T17:50:30.260Z'
+datePublished: '2016-03-18T10:24:08.162Z'
+dateModified: '2016-03-18T10:24:04.287Z'
 author:
   - name: Fable Factory Films
     url: 'http://vimeo.com/user21342582'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Sharon Plywood
+sourcePath: _posts/2016-03-18-sharon-plywood.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-18-sharon-plywood.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
