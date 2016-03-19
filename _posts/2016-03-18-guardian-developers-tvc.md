@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is "guardian developers tvc" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-03-18T13:36:48.811Z'
-dateModified: '2016-03-18T13:29:44.037Z'
+datePublished: '2016-03-19T07:16:47.765Z'
+dateModified: '2016-03-19T07:16:40.890Z'
 author:
   - name: Fable Factory Films
     url: 'http://vimeo.com/user21342582'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: guardian developers tvc
+sourcePath: _posts/2016-03-18-guardian-developers-tvc.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-18-guardian-developers-tvc.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
