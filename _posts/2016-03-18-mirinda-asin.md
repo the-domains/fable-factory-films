@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T13:20:06.621Z'
-dateModified: '2016-03-18T13:19:57.917Z'
+datePublished: '2016-03-31T11:23:57.200Z'
+dateModified: '2016-03-31T11:23:53.168Z'
 author:
   - name: Fable Factory Films
     url: 'http://vimeo.com/user21342582'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Mirinda-Asin
+sourcePath: _posts/2016-03-18-mirinda-asin.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-18-mirinda-asin.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
