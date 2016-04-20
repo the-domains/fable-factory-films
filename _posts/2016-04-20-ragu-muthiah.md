@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Newly wedded couple are with friends and family. They start playing the age old game ‘how well do you know each other’ .The groom says the wrong answer for most of the questions. Then the question asked is “which is the bride’s favouriteshopping spot”. The bride turns and says you better not mess this up.When the groom’s mom hears the question she says “hopeless ,him and shopping spots ,not a chance”. Then the groom says confidently that “I’ll get one point for sure, phew” and he answers the question right as South India shopping mall. Everyone is surprised that he got it right and applauds !!!'
-datePublished: '2016-04-20T11:37:09.452Z'
-dateModified: '2016-04-20T11:37:01.769Z'
+datePublished: '2016-04-20T11:38:46.559Z'
+dateModified: '2016-04-20T11:37:30.120Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-ragu-muthiah.md
