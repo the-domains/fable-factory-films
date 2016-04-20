@@ -6,12 +6,12 @@ isBasedOnUrl: 'https://vimeo.com/103408439'
 inLanguage: null
 starred: false
 keywords: []
-description: 'This is "United Nations - Aids Awarness Pledge" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-03-18T13:25:15.483Z'
-dateModified: '2016-03-18T13:25:05.812Z'
+description: Director - Ragu Muthiah
+datePublished: '2016-04-20T11:32:08.554Z'
+dateModified: '2016-04-20T11:31:33.753Z'
 author:
-  - name: Fable Factory Films
-    url: 'http://vimeo.com/user21342582'
+  - name: ''
+    url: ''
     avatar: {}
 related: []
 app_links:
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: United Nations - Aids Awarness Pledge
+sourcePath: _posts/2016-03-18-united-nations-aids-awarness-pledge.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-18-united-nations-aids-awarness-pledge.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
