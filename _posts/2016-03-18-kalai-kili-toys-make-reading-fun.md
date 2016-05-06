@@ -4,14 +4,13 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/103123247'
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-18T13:36:51.655Z'
-dateModified: '2016-03-15T17:52:44.204Z'
+description: Director - Ragu Muthiah
+datePublished: '2016-05-06T08:56:16.048Z'
+dateModified: '2016-05-06T08:56:04.347Z'
 author:
-  - name: Fable Factory Films
-    url: 'http://vimeo.com/user21342582'
+  - name: ''
+    url: ''
     avatar: {}
 related: []
 app_links:
@@ -42,14 +41,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Kalai Kili Toys - Make reading fun
+sourcePath: _posts/2016-03-18-kalai-kili-toys-make-reading-fun.md
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-18-kalai-kili-toys-make-reading-fun.md
-published: true
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
