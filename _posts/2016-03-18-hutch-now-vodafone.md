@@ -4,13 +4,12 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/103308144'
 inLanguage: null
-starred: false
 keywords: []
-description: =
-datePublished: '2016-03-18T12:48:17.885Z'
-dateModified: '2016-03-18T12:45:55.218Z'
+description: Director - John Francis
+datePublished: '2016-05-11T07:17:27.040Z'
+dateModified: '2016-05-11T07:17:02.303Z'
 author:
-  - name: Fable Factory Films
+  - name: ''
     url: 'http://vimeo.com/user21342582'
     avatar: {}
 related: []
@@ -43,13 +42,13 @@ app_links:
     id: com.vimeo.android.videoapp
 title: HUTCH NOW VODAFONE
 sourcePath: _posts/2016-03-18-hutch-now-vodafone.md
-published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
