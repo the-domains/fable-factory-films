@@ -4,13 +4,12 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/103226895'
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-18T13:36:49.348Z'
-dateModified: '2016-03-18T13:27:52.233Z'
+description: Director - K S Manikandan
+datePublished: '2016-05-11T07:13:24.457Z'
+dateModified: '2016-05-11T07:13:04.670Z'
 author:
-  - name: Fable Factory Films
+  - name: ''
     url: 'http://vimeo.com/user21342582'
     avatar: {}
 related: []
@@ -42,14 +41,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: GRT Jewellers
+sourcePath: _posts/2016-03-18-grt-jewellers.md
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-18-grt-jewellers.md
-published: true
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
