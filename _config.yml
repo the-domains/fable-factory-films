@@ -1,28 +1,81 @@
-name: Fable Factory Films
-favicon: null
-layout_spectrum: 0.35858
-typography_spectrum: 0.48707
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.25476195528586904
+color:
+  saturation: 0.17893005660486105
+  brandStrength: 0.7230462334190707
+  lightness: 0.35490456319524727
+  brandColors:
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+  rhythmicContrast: 0.8847026156461659
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#090907'
-    - '#42413c'
-    - '#fefefc'
-    - '#998550'
-    - '#c2ab68'
-  brandStrength: 0.9375
-  lightness: 0.75
-  saturation: 0.875
-  rhythmicContrast: 0.75
-purpose: []
+layout_spectrum: 0.0671566151939148
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Ragu Muthiah
+  email: ragu@fable-factory.com
+  url: www.fablefactoryfilms.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9579cf20-8268-48a1-a746-88c8aae3dd67.jpg
+name: Fable Factory Films
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: About Us
+    id: 0f6c2d4d-8a74-4fe6-a001-175dd40fa534
+    type: content
+  - name: Gautham Menon
+    id: efa5771c-06e0-4207-81d6-b619fcae7996
+    type: content
+  - name: John Francis
+    id: a00f2efc-7d2c-4282-b52f-fcca11b3f60f
+    type: content
+  - name: Saurab Ghosh
+    id: 0a2d4489-59be-4e1d-b1c8-0a65de6bea44
+    type: content
+  - name: K S Manikandan
+    id: 175a997b-154c-42cd-ac14-b5cc1de281a3
+    type: content
+  - name: Ragu Muthiah
+    id: 650d7797-761c-47b8-9e30-cc5e89f91337
+    type: content
+  - name: Contact Us
+    id: 6f685782-9472-4978-ad78-26b9413bf690
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/afb2c9be-1c13-4629-8ee5-8f3295ece484.jpg
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Fable Factory Films
+content: []
+coverPrefs:
+  filter: false
+description: A Unit of Old Madras Films LLP
+purpose:
+  - type: contact
+    url: 'tel:+919444707070'
+    label: 'Call '
+  - type: contact
+    url: 'mailto:ragu@fable-factory.com'
+    label: 'Mail '
+github: true
